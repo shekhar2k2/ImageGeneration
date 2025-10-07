@@ -1,0 +1,7 @@
+torch
+diffusers
+transformers
+opencv-python
+numpy
+scikit-learn
+svgwrite
